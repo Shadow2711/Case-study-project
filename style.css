@@ -1,0 +1,13 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+.test_img{
+    border-radius: 10px;
+    width: 95%;
+    margin-left: 35px;
+}
+.g-l{
+    background-color: white;
+    border-radius: 100px;
+}
